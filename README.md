@@ -21,4 +21,4 @@ pip install qrcode
 
 ```
 
-
+3. La imagen se genera dentro del mismo proyecto.
