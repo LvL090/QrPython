@@ -4,7 +4,7 @@
 Generador de código QR para web en Python
 
 <p align="center">
-  <img width="900" height="100" src="https://user-images.githubusercontent.com/99020950/189540119-8452c89a-0e66-467f-95b1-3b3cb8c2434b.png">
+  <img width="800" height="200" src="https://user-images.githubusercontent.com/99020950/189540119-8452c89a-0e66-467f-95b1-3b3cb8c2434b.png">
 </p>
 
 ## Instalación
