@@ -4,9 +4,8 @@
 Generador de código QR para web en Python
 
 <p align="center">
-  <img width="300" height="300" src="">
-</p>![Captura desde 2022-09-11 19-01-20](https://user-images.githubusercontent.com/99020950/189539976-7a50c415-7667-45fc-80ff-736f3f1a9544.png)
-
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/99020950/189540119-8452c89a-0e66-467f-95b1-3b3cb8c2434b.png">
+</p>
 
 ## Instalación
 
@@ -21,3 +20,5 @@ git clone https://github.com/LvL090/QrPython.git
 pip install qrcode
 
 ```
+
+
